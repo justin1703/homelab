@@ -8,18 +8,8 @@
 |GPU|Nvidia Geforce 8600 GT|GTX 1050Ti|GTX 1650/RTX 2060 Super|RTX 2070 Super|RTX 2070 Super|RTX 3060 12GB|
 |RAM|2x 8GB|4x 8GB|4x 16 GB 1866 MT/s (eig 2667 MT/s und 2133 MT/s)|4x 16 GB 1866 MT/s (eig 2667 MT/s und 2133 MT/s)|4x 16 GB 1866 MT/s (eig 2667 MT/s und 2133 MT/s)|4x 32 GB 3200 MT/s|
 |Gehäuse|Sharkoon|Chieftec UK-02B-OP|Chieftec UK-02B-OP|Lian Li O11 Dynamic|Chieftec UK-02B-OP|be quiet! PureBase 500DX|
-|Festplatten|4x Samsung 850 PRO (953.87 GiB)|4x Samsung 850 PRO (953.87 GiB)|2x Seagate ST4000NE001-2MA101 (3.64 TiB)
-1x Samsung 850 PRO (953.87 GiB)
-1x 240GB NVME SSD|2x Seagate ST4000NE001-2MA101 (3.64 TiB)
-1x Samsung 850 PRO (953.87 GiB)
-1x 240GB NVME SSD|2x Seagate ST4000NE001-2MA101 (3.64 TiB)
-1x Samsung 850 PRO (953.87 GiB)
-1x 240GB NVME SSD|2x Seagate ST4000NE001-2MA101 (3.64 TiB)
-1x Samsung 970 Evo Pro (2TB)|
-|Netzwerkkarte|1x Realtek Gigabit|1x Realtek Gigabit|2x Intel I210 
-1x Realtek RTL8125 2.5GbE|2x Intel I210 
-1x Realtek RTL8125 2.5GbE|2x Intel I210 
-1x Realtek RTL8125 2.5GbE|1x Dual 10G SFP+ X520-DA2|
+|Festplatten|4x Samsung 850 PRO (953.87 GiB)|4x Samsung 850 PRO (953.87 GiB)|2x Seagate ST4000NE001-2MA101 (3.64 TiB) | 1x Samsung 850 PRO (953.87 GiB) | 1x 240GB NVME SSD|2x Seagate ST4000NE001-2MA101 (3.64 TiB) | 1x Samsung 850 PRO (953.87 GiB) | 1x 240GB NVME SSD |2x Seagate ST4000NE001-2MA101 (3.64 TiB) | 1x Samsung 850 PRO (953.87 GiB) |1x 240GB NVME SSD |2x Seagate ST4000NE001-2MA101 (3.64 TiB) |1x Samsung 970 Evo Pro (2TB)|
+|Netzwerkkarte|1x Realtek Gigabit|1x Realtek Gigabit|2x Intel I210  |1x Realtek RTL8125 2.5GbE|2x Intel I210 |1x Realtek RTL8125 2.5GbE|2x Intel I210 |1x Realtek RTL8125 2.5GbE|1x Dual 10G SFP+ X520-DA2|
 ## Backup-Server
 ||Lenovo-PC|
 |---|---|
