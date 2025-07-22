@@ -16,11 +16,3 @@
 |CPU|AMD 3020e with Radeon Graphics|
 |RAM|16G 2400 MT/s|
 |Festplatte|1x Samsung 256G Nvme1x 1TB HDD|
-## Netzwerk
-|Gerät|IP|
-|---|---|
-|Mikrotik-Switch|192.168.178.16|
-|Fritz!Box|192.168.178.1|
-|EAP-Schlafzimmer|192.168.178.25|
-|EAP-Wohnzimmer|192.168.178.26|
-|EAP-Küche|192.168.178.27|
